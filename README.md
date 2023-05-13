@@ -32,7 +32,7 @@
 
 ### :woman_technologist: About Me :
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from México.
+I am a Full Stack Developer/Java/Software <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from México.
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
@@ -65,27 +65,13 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
   ---
   
-### :writing_hand: Blog Posts :
+### :writing_hand: Resume :
   
-  <!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-  name: Latest blog post workflow
-on:
-  schedule:
-    # Runs every hour
-    - cron: '0 * * * *'
-  workflow_dispatch:
+  I'm Héctor Castillo and I’m a fan of Programming Languages. Active person recently graduated from a professional
+career, looking for opportunity, interested and obsessed in the world of programming
+  
+  
 
-jobs:
-  update-readme-with-blog:
-    name: Update this repos README with latest blog posts
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          max_post_count: "4"
-          feed_list: "https://dev.to/feed/itszed0"
 <!--
 **Wenzeltelger/Wenzeltelger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
