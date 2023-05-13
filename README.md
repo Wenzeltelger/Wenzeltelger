@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-https://komarev.com/ghpvc/?username=your-github-username
+<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+https://komarev.com/ghpvc/?username=Wenzeltelger
 
 
 <!--
