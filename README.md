@@ -17,7 +17,7 @@
 </h1>
 
 <div align="center">
-<img src="https://25.media.tumblr.com/a15249337fd5ae3f3366913e6663ccbd/tumblr_mfv63cWv6P1rq7rf7o1_400.gif" width="600" height="300"/>
+<img src="https://25.media.tumblr.com/a15249337fd5ae3f3366913e6663ccbd/tumblr_mfv63cWv6P1rq7rf7o1_400.gif" width="600" height="500"/>
 </div>
 
 ---
