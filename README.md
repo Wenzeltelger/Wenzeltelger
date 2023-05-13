@@ -28,7 +28,7 @@ I am a Full Stack Developer/Java/Software <img src="https://media.giphy.com/medi
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I play videogames with my friends.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-méxico-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hector-caster/)
 
